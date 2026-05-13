@@ -39,6 +39,8 @@ This project explores **58,595 TTC bus delay incidents** recorded in 2025, uncov
 - Dataset contains: Date, Route, Time, Day, Station, Delay Code, Minutes of Delay, Direction
 
 ## Tools Used
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-285192?style=flat-square&logo=microsoft&logoColor=white)
 - **Power BI Desktop** - data cleaning, modeling, and visualization
 - **Power Query** - filtering outliers, adding calculated columns (Month, Hour, cleaned Bound values)
 
